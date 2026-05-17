@@ -1,8 +1,0 @@
-let poem = "Roses are red, \nviolets are blue,\nJavascript is fun";
-console.log(poem);
-
-/* Result
-Roses are red, 
-violets are blue,
-Javascript is fun
-*/
