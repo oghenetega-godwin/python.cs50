@@ -1,0 +1,1 @@
+print(type(50)) # This is same as typeof in JavaScript
